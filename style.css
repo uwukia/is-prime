@@ -27,6 +27,14 @@ h3 {
     color: #8a8a8a;
 }
 
+#message {
+    min-height: 29px;
+}
+
+#hint {
+    min-height: 19px;
+}
+
 input {
     outline: none;
     display: inline-block;
